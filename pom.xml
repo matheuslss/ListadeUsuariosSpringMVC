@@ -6,9 +6,9 @@
   <packaging>war</packaging>
 	
 	<properties>
-  		<sonar.projectKey>lista</sonar.projectKey>
-  		<sonar.host.url>http://ip172-18-0-10-brj68j2osm4g00d84ac0-9000.direct.labs.play-with-docker.com</sonar.host.url>
-  		<sonar.login>de84d3a4d266374b5ac807cbc5c2f2e5b84b82b1</sonar.login>
+  		<sonar.projectKey>E_T-Project</sonar.projectKey>
+  		<sonar.host.url>http://ip172-18-0-16-brlahcroudsg00ensstg-9000.direct.labs.play-with-docker.com</sonar.host.url>
+  		<sonar.login>2d4fe403f504bfe2ec17605dc6e6e46e440b1232</sonar.login>
 	</properties>
 	
   	<dependencies>
